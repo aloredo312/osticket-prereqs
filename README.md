@@ -110,7 +110,7 @@ From the osTicket installation files folder we extract the osTicket-v1.15.8zip a
 <img width="476" alt="install heidisql   create session" src="https://github.com/user-attachments/assets/83ee6135-cd8d-42f5-bc00-3e9b47725097">
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+To install heidisql we go to our osTicket files folder, find and select "HeidiSQL". Follow the set up steps and you will finish by clicking "install". Then were going to open HeidiSQL in order to create a database.
 </p>
 <br />
 
@@ -118,7 +118,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 <img width="641" alt="create a osticket database" src="https://github.com/user-attachments/assets/bc3a53a0-678f-4f93-adb2-d22dfb6af2aa">
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Once HeidiSQL is opened were going to create a new database. First we create a new session so on the bottom left corner click "new". It will ask for a user and password, so you can put whatever you want, to keep it simple for an example I used "root" for both user and password. Then you will click on "open" and this  will open a new session. Next to create a database we will click on a symbol that looks like a dolphin, click "new", and click on "database". For the name we will use "osTicket", I believe it has to be tha same name we used when we renamed the "upload" forlder to "osTicket" in the previous step. It should show up on the left side under the dolphin looking symbol.
 </p>
 <br />
 
@@ -126,6 +126,6 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 <img width="635" alt="finish installing osticket" src="https://github.com/user-attachments/assets/99ec76bc-2dd6-4805-b692-8ef533827f72">
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Now we go back to the osTicket basic installation browser and fill out the system settings, admin user info and the database settings. Once everything is filled out just click install now and osTicket should be installed.
 </p>
 <br />
